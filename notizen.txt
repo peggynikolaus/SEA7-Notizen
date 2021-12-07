@@ -5,3 +5,6 @@ GIT -> Versionskontrollsystem
 git -> Erzeugen einer 2. Version
 
 git -> Erzeugen einer 3. Version
+
+git -> Erzeugen einer 4. Version im 1. Branch
+git commit -> schließt Sicherungsvorgang ab
