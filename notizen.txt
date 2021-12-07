@@ -1,5 +1,5 @@
+Update: Branch2Test071221
 Update: BranchTest071221
-Das sind die 1. Notizen für GitHub
 
 GIT -> Versionskontrollsystem
 
@@ -15,3 +15,7 @@ git commit -> schließt Sicherungsvorgang ab
 Aufgabe neuen Git-Branch "BranchTest071221" angelegt 
 Übung mit VI und GitHub und Git
 Erstellen und synchronisieren
+
+Aufgabe neuen Git-Branch "Branch2Test071221" angelegt
+Änderung auf GitHub vorgenommen
+Synchronisieren auf Git Konsole
