@@ -1,10 +1,12 @@
-das sind die 1. Notizen für GitHub
+Das sind die 1. Notizen für GitHub
 
 GIT -> Versionskontrollsystem
 
 git -> Erzeugen einer 2. Version
+git status -> Sicht auf die Datein
 
 git -> Erzeugen einer 3. Version
+git add -> wird von git berücksichtigt
 
 git -> Erzeugen einer 4. Version im 1. Branch
 git commit -> schließt Sicherungsvorgang ab
