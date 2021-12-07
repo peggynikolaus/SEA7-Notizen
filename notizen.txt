@@ -1,3 +1,4 @@
+Update: BranchTest071221
 Das sind die 1. Notizen für GitHub
 
 GIT -> Versionskontrollsystem
@@ -10,3 +11,7 @@ git add -> wird von git berücksichtigt
 
 git -> Erzeugen einer 4. Version im 1. Branch
 git commit -> schließt Sicherungsvorgang ab
+
+Aufgabe neuen Git-Branch "BranchTest071221" angelegt 
+Übung mit VI und GitHub und Git
+Erstellen und synchronisieren
